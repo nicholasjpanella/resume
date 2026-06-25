@@ -1,7 +1,7 @@
 import { PROFILE, SKILLS } from '@/lib/resume/data';
+import { SITE_URL } from '@/lib/site-url';
 
-export const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? 'https://nicholasjpanella.com';
+export { SITE_URL } from '@/lib/site-url';
 
 export const SITE_NAME = PROFILE.name;
 
