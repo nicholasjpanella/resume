@@ -1,0 +1,26 @@
+# https://nicholasjpanella.com/llms.txt
+> Staff full-stack engineer — wallet backend, platform IAM, design systems.
+
+## Primary
+- [Homepage](https://nicholasjpanella.com/)
+- [Résumé PDF](https://nicholasjpanella.com/resume.pdf)
+
+## Profiles
+- [GitHub](https://github.com/nicholasjpanella)
+- [LinkedIn](https://linkedin.com/in/nicholasjp)
+
+## Highlights
+- $2M/mo onramp volume, 7,400 purchase events/mo, 7x volume growth since early 2025, 93% OTP-to-wallet completion (CoinFlip non-custodial wallet)
+- Tech lead: wallet, ATM operations, and rewards services at CoinFlip
+- Co-architected JPMorgan CRM platform — PWM Wealth Tech Award 2022
+
+## About
+Nicholas Panella is a Staff Full-Stack Engineer based in Tampa, FL. Open to staff / principal platform and full-stack roles. The site includes production metrics, project highlights, experience timeline, education, and an AI assistant grounded in verified professional background — it does not invent credentials.
+
+## Education
+- Bloomsburg University of Pennsylvania, B.S.B.A. in Information and Technology Management, Dec 2016
+
+## Policies
+- Allow: citation with a link back to https://nicholasjpanella.com
+- Contact: nickjpanella@gmail.com
+- AI assistant answers only from verified resume data on this site
