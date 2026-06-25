@@ -32,7 +32,7 @@ export type BadgeVariant = keyof typeof badgeVariants;
 
 export const chipVariants = {
   interactive:
-    'rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-slate-300 transition-colors hover:border-cyan-400/40 hover:text-cyan-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400',
+    'rounded-full border border-white/10 bg-white/5 px-3 py-1.5 text-xs text-slate-300 transition-colors hover:border-cyan-400/40 hover:text-cyan-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-cyan-400 cursor-pointer',
   static:
     'rounded-lg border border-white/10 bg-white/5 px-2.5 py-1 text-xs text-slate-300',
 } as const;
